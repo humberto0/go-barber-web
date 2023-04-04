@@ -1,7 +1,24 @@
 # GoBarber Web Application
-This is a React web application for a barber shop. The application allows users to create an account, login, view their profile information, and schedule appointments with their preferred barber.
 
-Getting Started
+This is a React web application for a barber shop. The application allows users to create an account, sign in, view their profile information, and schedule appointments with their preferred barber.
+
+### Sign in
+
+![Captura de tela de 2023-04-04 18-05-17](https://user-images.githubusercontent.com/15384670/229942427-38d5df34-ab7b-427f-8574-216bd7a7bfc3.png)
+
+### Sign up
+
+
+![Captura de tela de 2023-04-04 18-05-26](https://user-images.githubusercontent.com/15384670/229942596-2f4130bd-7e0b-41d0-a8be-ce0b9742f525.png)
+
+
+### Dashboard
+
+![Captura de tela de 2023-04-04 18-15-47](https://user-images.githubusercontent.com/15384670/229942647-2f415789-c396-415e-a48c-6d5998ed0a4f.png)
+
+
+## Getting Started
+
 To get started, follow these steps:
 
 *1 Clone the repository to your local machine.
@@ -55,4 +72,5 @@ This application relies on the following dependencies:
 ```
 
 ## Contributing
+
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
